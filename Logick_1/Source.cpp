@@ -164,8 +164,4 @@ for(int j=0;j<n;++j){
                         j=(n-1);
                         ++StudBestcount;}}
     if(StudBestcount==0) cout<<"Студентов-отличников нет!"<<endl;
- 
- 
- 
- 
 }*/
