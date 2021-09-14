@@ -110,11 +110,8 @@ using namespace std;
 	}
 	system("pause");
 }*/
-/*#include<iostream>
-#include<clocale>
-using namespace std;
+/*
 int const n = 5;
-
 int main() {
 	setlocale(LC_ALL, ".1251");
 	setlocale(LC_ALL, "Russian");
