@@ -63,7 +63,7 @@ using namespace std;
 
 	int* mas = new int[n];
 
-	for (int i = 0; i < 10; i++) {
+	for (int i = 0; i < n; i++) {
 
 		mas[i] = rand() % 100;
 		cout << mas[i] << " \n";
